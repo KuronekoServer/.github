@@ -1,5 +1,5 @@
 # KuronekoServer
-![image](https://user-images.githubusercontent.com/78240988/162595825-02f3d354-db99-40db-9eca-3eff0652c320.png)<br>
+![image](https://github.com/kuroneko6423/kuroneko6423/raw/main/kuronekoServer.jpg)<br>
 [サポートサーバー](https://discord.gg/Y6w5Jv3EAR)<br>
 [KuronekoServerのウェブサイト](https://kuroneko6423.com/)<br>
 ## KuronekoServer
