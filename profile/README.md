@@ -9,13 +9,5 @@
 当グループは2018年に設立され、2021/07/20にDiscordサーバーを開設しました。<br>
 Bot利用者や寄付者には本当に感謝しています！ありがとうございます！<br>
 改めまして、これからもKuronekoServerをよろしくお願いします！<br>
-<br><br>
-利用規約<br>
-https://kuroneko6423.com/rule<br>
-特定商取引法に基づく表記<br>
-https://kuroneko6423.com/company/<br>
-<br><br>
-:copyright:KuronekoServer<br>
-
 # Support
 [![Discord](https://discordapp.com/api/guilds/867038364552396860/widget.png?style=banner4)](https://discord.gg/Y6w5Jv3EAR)
