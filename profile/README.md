@@ -1,6 +1,6 @@
 # KuronekoServer
 ![image](https://github.com/kuroneko6423/kuroneko6423/raw/main/kuronekoServer.jpg)<br>
-[サポートサーバー](https://discord.gg/Y6w5Jv3EAR)<br>
+
 [KuronekoServerのウェブサイト](https://kuroneko6423.com/)<br>
 ## KuronekoServer
 このサービスは学生により運営されております。
