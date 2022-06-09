@@ -11,3 +11,6 @@ Bot利用者や寄付者には本当に感謝しています！ありがとう�
 改めまして、これからもKuronekoServerをよろしくお願いします！<br>
 # Support
 [![Discord](https://discordapp.com/api/guilds/867038364552396860/widget.png?style=banner4)](https://discord.gg/Y6w5Jv3EAR)
+# Status
+[ServerStatus](https://status.kuroneko6423.com/)<br>
+[BotStatus](https://botstatus.kuroneko6423.com/)<br>
