@@ -1,5 +1,5 @@
 # KuronekoServer
-![image](https://github.com/kuroneko6423/kuroneko6423/raw/main/kuronekoServer.jpg)<br>
+![image](https://cdn.kuroneko6423.com/kuronekoserver/wide-logo-white.png)<br>
 
 [KuronekoServerのウェブサイト](https://kuroneko6423.com/)<br>
 ## KuronekoServer
@@ -19,14 +19,13 @@
 - 多言語対応
 > 日本人以外でも利用できるように目指しています。
 
-当グループは2018年に設立され、2021/07/20にDiscordサーバーを開設しました。<br>
+当グループは2018年6月11日に設立され、2021/07/20にDiscordサーバーを開設しました。<br>
 Bot利用者や寄付者には本当に感謝しています！ありがとうございます！<br>
 改めまして、これからもKuronekoServerをよろしくお願いします！<br>
 # Support
 [![Discord](https://discordapp.com/api/guilds/867038364552396860/widget.png?style=banner4)](https://discord.gg/Y6w5Jv3EAR)
 # Status
 [ServerStatus](https://status.kuroneko6423.com/)<br>
-[Resource](https://resource.kuroneko6423.com/)<br>
 # その他
 [ブログ](https://blog.kuroneko6423.com/)<br>
 [サポートページ](https://support.kuroneko6423.com/)<br>
