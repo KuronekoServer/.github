@@ -1,5 +1,5 @@
 # KuronekoServer
-![image](https://cdn.kuroneko6423.com/kuronekoserver/wide-logo-white.png)<br>
+![image](https://cdn.kuroneko6423.com/kuronekoserver/kuronekoserver-logo-kawaii.webp)<br>
 
 [KuronekoServerのウェブサイト](https://kuroneko6423.com/)<br>
 ## KuronekoServer
@@ -27,5 +27,5 @@ Bot利用者や寄付者には本当に感謝しています！ありがとう�
 # Status
 [ServerStatus](https://status.kuroneko6423.com/)<br>
 # その他
-[ブログ](https://blog.kuroneko6423.com/)<br>
+[お知らせ](https://news.kuroneko6423.com/)<br>
 [サポートページ](https://support.kuroneko6423.com/)<br>
