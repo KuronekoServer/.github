@@ -1,5 +1,5 @@
 # KuronekoServer
-![image](https://cdn.kuroneko6423.com/kuronekoserver/logo-wide-kawaii.webp)<br>
+![image](https://cdn.krnk.org/kuronekoserver/logo-wide-kawaii.webp)<br>
 
 [KuronekoServerのウェブサイト](https://kuroneko6423.com/)<br>
 ## KuronekoServer
